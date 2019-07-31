@@ -1,0 +1,9 @@
+http://app.intellims.com.br/api/web/v2/mention/list?sid=fb123c3afd9e47b08e17014fad76dd6c&q=gr_%3Agames&filters=%22pdr%22%3A%2220190724%200%3A0-20190730%2023%3A59%22%2C%22review%22%3A%22NOT_REVISED%22&visibility=NOT_REVISED&page=1&max=20&jsoncallback=jQuery15107461646112739164_1564495840580&_=1564495982151
+
+http://app.intellims.com.br/api/web/v1/analytics/brandsearch/mostactive?sid=fb123c3afd9e47b08e17014fad76dd6c&limit=30&jsoncallback=jQuery15109518039560556615_1564505606332&_=15645056076174
+
+http://app.intellims.com.br/api/web/v2/analytics/brandsearch/overview?sid=fb123c3afd9e47b08e17014fad76dd6c&q=gr_%3Agames&filters=%22pdr%22%3A%2220190724%200%3A0-20190730%2023%3A59%22%2C%22review%22%3A%22NOT_REVISED%22&jsoncallback=jQuery15106151973168112626_1564505740771&_=1564505895606
+
+http://app.intellims.com.br/api/web/v2/analytics/authors?sid=fb123c3afd9e47b08e17014fad76dd6c&q=gr_%3Agames&filters=%22pdr%22%3A%2220190724%200%3A0-20190730%2023%3A59%22%2C%22review%22%3A%22NOT_REVISED%22&f=json&jsoncallback=jQuery15106151973168112626_1564505740773&_=1564505895610
+
+http://app.intellims.com.br/api/web/v2/analytics/sources?sid=fb123c3afd9e47b08e17014fad76dd6c&q=gr_%3Agames&filters=%22pdr%22%3A%2220190724%200%3A0-20190730%2023%3A59%22%2C%22review%22%3A%22NOT_REVISED%22&f=json&jsoncallback=jQuery15106151973168112626_1564505740772&_=1564505895608
