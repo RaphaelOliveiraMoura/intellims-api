@@ -1,0 +1,15 @@
+{
+  "name": "intellims-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/mentions-api.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "Raphael",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
